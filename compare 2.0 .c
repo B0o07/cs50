@@ -16,7 +16,7 @@ int main(void)
         printf("%i is greater than %i!\n", x, y);
     }
 
-    else  if (x == y)
+    else
     {
         printf("This numbers are equals!\n");
     }
